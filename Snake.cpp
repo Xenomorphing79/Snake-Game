@@ -101,9 +101,9 @@ void main_Menu()
 
     if (menu <= -1)
     {
-        menu = 2;
+        menu = 1;
     }
-    else if (menu >= 3)
+    else if (menu >= 2)
     {
         menu = 0;
     }
